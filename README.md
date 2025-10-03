@@ -17,8 +17,6 @@
 - [Methodology](#methodology)  
 - [Highlights & Insights](#highlights--insights)  
 - [How to run (reproduce)](#how-to-run-reproduce)  
-- [Project structure](#project-structure)  
-- [Dependencies](#dependencies)  
 
 ## Project Overview
 
