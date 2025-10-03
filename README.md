@@ -68,8 +68,6 @@ If your repo currently has only the notebook, make sure to add `.csv` files unde
 
 ## Highlights & Insights (example)
 
-> Replace these example lines with your real findings from the notebook.
-
 - **Top genres**: Drama, Documentary, and Comedy dominate watch counts in most regions.  
 - **Catalog growth**: Net additions spike in Q3–Q4 across years — likely due to strategic release windows.  
 - **Regional tastes**: Crime/Thriller genres perform strongly in Country A and Country B; family/animation show better retention in Country C.  
